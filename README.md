@@ -15,8 +15,8 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/yourname/laravel-multitenant-task-api.git
-cd laravel-multitenant-task-api
+git clone https://github.com/hardik2606/laravel-multitenant-task
+cd laravel-multitenant-task
 
 # Install dependencies
 composer install
